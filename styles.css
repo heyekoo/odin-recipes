@@ -1,8 +1,28 @@
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
 
 }
 
 h1 {
     font-size: 36px;
+    
+}
+
+.h2p {
+    color: white;
+    background-color: black;
+}
+
+.heading,
+.ulc {
+    text-align: center;
+    list-style-position: inside;
+    list-style-type: none;
+    
+}
+
+.pcolor.test {
+    font-size: 36px;
+    color: red;
 }
